@@ -49,7 +49,7 @@ Structured Output (Pydantic)
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/john-victor-000/AI-Interview-Questions-Generator
 cd your-repo
 ```
 
@@ -140,8 +140,11 @@ streamlit run frontend/app.py
 ## 👨‍💻 Author
 
 **John Victor Dabbakuti**
+
 B.Tech CSE-Data Science ( 2022 - 2026)
+
 Gen AI Trainee at Innomatics Research Labs
+
 ---
 
 ## ⭐ Support
