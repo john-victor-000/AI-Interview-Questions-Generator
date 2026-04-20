@@ -5,4 +5,5 @@ python-dotenv
 pydantic
 langchain
 langchain-google-genai
+reportlab
 PyPDF2
